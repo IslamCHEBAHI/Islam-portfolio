@@ -29,11 +29,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
 
-  title: "Islam | Full Stack Developer",
+  title: "CHEBAHI ISLAM DEV | Full Stack Developer",
 
   description:
-    "Islam is a Full Stack Developer specialized in building modern web applications using Next.js, React, TypeScript, Prisma and modern technologies.",
-
+    "Full Stack Developer specialized in building modern and scalable web applications using Next.js, React, TypeScript and Prisma.",
 
   keywords: [
 
@@ -60,30 +59,31 @@ export const metadata: Metadata = {
 
     {
 
-      name: "Islam",
+      name: "Islam CHEBAHI",
 
     },
 
   ],
 
 
-  creator: "Islam",
+  creator: "CHEBAHI ISLAM DEV",
 
 
   openGraph: {
 
     title:
-      "Islam | Full Stack Developer",
+      "CHEBAHI ISLAM DEV | Full Stack Developer",
 
     description:
-      "Building modern, scalable and user-focused web applications with Next.js and TypeScript.",
+      "Full Stack Developer building modern and scalable web applications.",
 
     type:
       "website",
 
+    url: "https://islam-portfolio-tau.vercel.app",
+    siteName: "CHEBAHI ISLAM DEV",
+
   },
-
-
 };
 
 
