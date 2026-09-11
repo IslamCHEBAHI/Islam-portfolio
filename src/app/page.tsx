@@ -5,6 +5,7 @@ import Projects from "@/components/Projects";
 import Skills from "@/components/Skills";
 import About from "@/components/About";
 import Contact from "@/components/Contact";
+import Footer from "@/components/Footer";
 import Image from "next/image";
 import { motion } from "framer-motion";
 
@@ -201,20 +202,13 @@ export default function Home() {
 
         </div>
 
-
       </section>
 
-
-
       <About />
-
       <Projects />
-
       <Skills />
-
       <Contact />
-
-
+      <Footer />
     </main>
 
   );
