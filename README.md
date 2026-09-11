@@ -1,39 +1,122 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CHEBAHI ISLAM DEV — Portfolio
 
-## Getting Started
+Personal portfolio of **Islam Chebahi**, Full Stack Developer focused on building modern, scalable and user-focused web applications.
 
-First, run the development server:
+🌐 **Live Portfolio:**  
+https://islam-portfolio-tau.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I am a Full Stack Developer interested in building modern web applications that combine clean interfaces, solid architecture and practical business functionality.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+My work focuses on developing complete digital products, from the user interface to backend logic, database management and administration systems.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Featured Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 01 — Travel Agency Platform
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+A complete travel agency management platform designed to connect the customer experience with agency operations.
 
-## Deploy on Vercel
+**Main features:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Destinations management
+- Hotels management
+- Travel stays
+- Promotions
+- Flight requests
+- Customer-facing interface
+- Administration dashboard
+- Authentication
+- Image management
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Islam-portfolio
-Professional portfolio showcasing my web development projects, skills, and experience in building modern full-stack applications.
->>>>>>> 3da63b0e93b6e7cd065cc0aa71b2eaa53721019c
+**Technologies:**
+
+- Next.js
+- React
+- TypeScript
+- Prisma
+- NextAuth
+- Cloudinary
+- Tailwind CSS
+
+---
+
+### 02 — Assia Chic Boutique
+
+An e-commerce platform dedicated to the online sale of women's accessories.
+
+🌐 **Live Website:**  
+https://assia-chic-boutique.com/
+
+💻 **GitHub Repository:**  
+https://github.com/IslamCHEBAHI/Boutique-Assia-chic
+
+**Project type:**
+
+E-commerce / Online Store
+
+---
+
+## Technologies
+
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Prisma
+- Database Design
+- Authentication
+- Server Actions
+- API Development
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- Vercel
+- Cloudinary
+- Figma
+- VS Code
+
+---
+
+## Portfolio Structure
+
+The portfolio includes:
+
+- Personal introduction
+- About section
+- Skills & technologies
+- Featured projects
+- Project case studies
+- Contact section
+- Responsive navigation
+- SEO metadata
+- Sitemap
+- Robots configuration
+- Open Graph metadata
+
+---
+
+## Tech Stack
+
+This portfolio is built with:
+
+```text
+Next.js
+TypeScript
+React
+Tailwind CSS
